@@ -1,4 +1,4 @@
-# Strogonoff de Frango :chiken
+# Strogonoff de Frango
 ### Ingredientes
 
  - 3 peitos de frango cortados em cubos
